@@ -1,0 +1,45 @@
+
+Apache HBase - Shaded
+Copyright 2007-2017 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+====
+Apache HBase - Shaded contained works
+
+This product contains additional works that are distributed under licenses
+other than ASL v2. See LICENSE for full details
+
+--
+This product includes portions of the Bootstrap project v3.0.0
+
+Copyright 2013 Twitter, Inc.
+
+Licensed under the Apache License v2.0
+
+This product uses the Glyphicons Halflings icon set.
+
+http://glyphicons.com/
+
+Copyright Jan Kovařík
+
+Licensed under the Apache License v2.0 as a part of the Bootstrap project.
+
+--
+This product includes the 'Findbugs Annotations under Apache License' project
+(https://github.com/stephenc/findbugs-annotations), version 1.3.9-1
+licensed under the Apache Software License, version 2.0.
+--
+This product includes 'Apache log4j'
+Copyright 2010 The Apache Software Foundation
+
+
+----
+This product includes the following works licensed under the CPL v1.0, see LICENSE for details:
+
+  * JUnit incorporated from junit:junit:jar:4.11
+    For source see: http://junit.org/
+----
+----
+Incorporated NOTICE files from bundled works below.
+----
